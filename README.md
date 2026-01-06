@@ -1,4 +1,4 @@
-## 👨🏻‍💻 **Guilherme Carvalho de Lima**
+## 👨🏻‍💻 **Guilherme Carvalho**
 
 ```Desenvolvedor Backend | Java ```
 
