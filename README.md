@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 **Guilherme Carvalho de Lima**
 
-```Backend Developer | Systems Analysis & Development Student```
+```Desenvolvedor Backend | Graduando em Engenharia de Software```
 
 <p style="font-size: 14px; color: #c9d1d9;">
 Studying a in Software Engineer (1nd semester) at UMC - Universidade de Mogi das Cruzes. <br>
