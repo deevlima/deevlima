@@ -1,4 +1,4 @@
-## 👨🏻‍💻 **Guilherme Carvalho de Lima**
+##  **Guilherme Carvalho de Lima**
 
 ```Back-end Developer | Systems Analysis & Development Student```
 
