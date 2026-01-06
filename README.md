@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👨🏻‍💻 **Guilherme Carvalho de Lima**
 
-<!--
-**deevlima/deevlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```Back-end Developer | Systems Analysis & Development Student```
 
-Here are some ideas to get you started:
+<p style="font-size: 14px; color: #c9d1d9;">
+Studying a in Software Engineer (1nd semester) at UMC - Universidade de Mogi das Cruzes. <br>
+Passionate about technology, education, fitness, and turning ideas into real projects through code.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Stacks  
+[![My Skills](https://skillicons.dev/icons?i=java,git)](https://skillicons.dev)
+
