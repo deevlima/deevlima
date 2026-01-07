@@ -1,4 +1,4 @@
-## 👨🏻‍💻 ** Guilherme Carvalho**
+## 👨🏻‍💻 **Guilherme Carvalho**
 
 ```Desenvolvedor Backend | Java ```
 
